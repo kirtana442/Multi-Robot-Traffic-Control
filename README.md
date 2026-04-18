@@ -20,6 +20,7 @@ The project follows a modular architecture to separate data modeling, pathfindin
 
 ```text
 Multi-Robot-Traffic-Control/
+├── test_results       → 6 test_inputs each with outputs( trajectories.json, lane_heatmap, metrics.json)
 ├── models.py          → Data structures (Robot, Lane, SimulationMetrics)
 ├── planner.py         → A* path planning with lane-aware cost weight
 ├── coordinator.py     → Central logic for speed, reservations, and deadlock detection
