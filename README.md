@@ -95,11 +95,11 @@ The system has been validated against six distinct scenarios in `test_suite.py`:
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Multi-Robot-Traffic-Control.git
+git clone https://github.com/kirtana442/Multi-Robot-Traffic-Control.git
 cd Multi-Robot-Traffic-Control
 
 # Install dependencies
-pip install networkx matplotlib numpy
+pip install networkx matplotlib
 ```
 
 ### Execution
