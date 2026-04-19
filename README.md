@@ -13,7 +13,11 @@ This project addresses the challenge of navigating multiple robots through a sha
 * **Adaptive Intelligence:** Real-time speed scaling and path cost adjustments based on congestion hotspots.
 
 ---
+## Video explanation
 
+<https://drive.google.com/file/d/1bRxrY7VM2s3z41zH0toTyuMlh8ekswnV/view?usp=sharing>
+
+---
 ## System Architecture
 
 The project follows a modular architecture to separate data modeling, pathfinding logic, and simulation execution:
